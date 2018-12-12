@@ -1,0 +1,19 @@
+
+.menu{
+    margin-left: 5px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid; 
+    cursor: url('../imagens/cursor.jpg');
+    font-size: 40px;
+}
+
+.menu img{
+    width: 40px;
+}
+#cenario img{
+    margin: 10px
+}
